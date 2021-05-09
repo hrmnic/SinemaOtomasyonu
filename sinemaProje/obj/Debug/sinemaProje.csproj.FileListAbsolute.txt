@@ -1,0 +1,15 @@
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\bin\Debug\sinemaProje.exe.config
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\bin\Debug\sinemaProje.exe
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\bin\Debug\sinemaProje.pdb
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.csprojAssemblyReference.cache
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.Properties.Resources.resources
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.csproj.GenerateResource.cache
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.csproj.CoreCompileInputs.cache
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.exe
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.pdb
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.frmAnasayfa.resources
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.frmFilmEkle.resources
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.frmSalonEkle.resources
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.frmSeansEkle.resources
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.frmSeansListele.resources
+C:\Users\ozz\source\repos\sinemaProje\sinemaProje\obj\Debug\sinemaProje.frmSatisListeleme.resources
